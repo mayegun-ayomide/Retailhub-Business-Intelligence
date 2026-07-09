@@ -1,21 +1,24 @@
-# Business Case 1 – SQL Fundamentals
+# RetailHub Business Intelligence Portfolio
 
-## Overview
-This business case demonstrates my understanding of fundamental SQL concepts using the RetailHub retail database.
+Welcome to my Business Intelligence portfolio.
 
-## Skills Demonstrated
-- SELECT
-- WHERE
-- ORDER BY
-- LIMIT
-- DISTINCT
-- COUNT
-- MIN
-- MAX
-- AVG
+This repository contains end-to-end data analysis projects based on a simulated retail company called RetailHub.
 
-## Database
-PostgreSQL
+## Tools Used
+- PostgreSQL
+- Excel
+- Power BI
+- Python
+
+## Business Cases
+- ✅ Business Case 1 – SQL Fundamentals
+- ⏳ Business Case 2 – Sales Analysis
+- ⏳ Business Case 3 – Customer Analytics
+- ⏳ Business Case 4 – Product Performance
+- ⏳ Business Case 5 – Inventory Analysis
+- ⏳ Business Case 6 – Financial Reporting
+- ⏳ Business Case 7 – Advanced SQL
+- ⏳ Business Case 8 – Executive Dashboard
 
 ## Author
 Mayegun Ayomide (Ayo Analytics)
