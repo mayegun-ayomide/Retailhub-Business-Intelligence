@@ -18,4 +18,4 @@ This business case demonstrates my understanding of fundamental SQL concepts usi
 PostgreSQL
 
 ## Author
-Ayo Analytics
+Mayegun Ayomide (Ayo Analytics)
