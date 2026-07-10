@@ -6,9 +6,6 @@ This repository contains end-to-end data analysis projects based on a simulated 
 
 ## Tools Used
 - PostgreSQL
-- Excel
-- Power BI
-- Python
 
 ## Business Cases
 - ✅ Business Case 1 – SQL Fundamentals
