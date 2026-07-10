@@ -12,7 +12,7 @@ This repository contains end-to-end data analysis projects based on a simulated 
 
 ## Business Cases
 - ✅ Business Case 1 – SQL Fundamentals
-- ⏳ Business Case 2 – Sales Analysis
+- ✅ Business Case 2 – Sales Analysis
 - ⏳ Business Case 3 – Customer Analytics
 - ⏳ Business Case 4 – Product Performance
 - ⏳ Business Case 5 – Inventory Analysis
